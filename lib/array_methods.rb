@@ -1,5 +1,4 @@
 def using_include(array, element)
-  array.include?("wow") == true
   array.include?("Tardis") == false
 end
 
